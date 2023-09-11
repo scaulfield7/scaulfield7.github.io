@@ -10,6 +10,8 @@ There are various ways to get into software development, so it can be hard to kn
 
 It is essential to consistently network, and to add code to GitHub as you learn. Even from the first bits of code you write, these can be added to GitHub to practise using GitHub and writing code regularly. Once a bit more familiar with coding and using GitHub, a huge bonus, if possible, would be to learn a bit about how to review code in general and on GitHub, and to get your code reviewed by someone else learning to code, or to review someone's code on GitHub, and to show that you are able to use GitHub in this way. Code reviews are a big part of software development but are often not covered in college courses.
 
+It's also essential to get good at using search engines well to find information on anything you are unfamiliar with or get stuck on as you learn - for example, you may search for something like "how to add code to GitHub" if following the above tip and unsure of how to begin. Or you may even want to start with "what is GitHub".
+
 ## Resources for people interested in studying software development (or getting into tech)
 
 ### [Springboard](https://springboardcourses.ie/login)
